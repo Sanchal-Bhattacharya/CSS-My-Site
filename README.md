@@ -1,1 +1,1 @@
-# Used intermediate CSS to style my website.
+Used intermediate CSS to style my website.
